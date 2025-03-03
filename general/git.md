@@ -1,5 +1,5 @@
 ## Gitワークフロー
-Reference: https://github.com/mizchi/ailab/blob/main/.cline/rules/git.md
+Reference: https://github.com/mizchi/ailab/.cline/rules/git.md
 
 このドキュメントでは、コミットとプルリクエストの作成に関するベストプラクティスを説明します。
 
